@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello step
-        run: echo "Hello from [Аты-жөніңіз]"
+        run: echo "Hello from Nurdaulet"
 
       - name: Print system info
         run: uname -a
